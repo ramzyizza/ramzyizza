@@ -1,11 +1,11 @@
 
 
-<h1 align="center">Hey There 👋, I'm Ramzy</h1>  
-<h3 align="center">Artificial Intelligence and Computer Science Student at University of Birmingham. Love to work on Software Engineering Project!</h3>  
+<h1 align="center">Hey There 👋, I'm Ramzy (he/him) </h1>  
+<h3 align="center">Artificial Intelligence and Computer Science Student at the University of Birmingham. I am passionate about diving into Software Engineering projects that challenge me to the core!</h3>  
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ramzyizza&label=Profile%20views&color=0e75b6&style=flat" alt="ramzyizza" /> </p>  
   
-- 🔭 I’m currently working on **Website Association of Indonesian Students & Indonesian Society in Birmingham**  
+- 🔭 I’m currently working on **Sign-Lingo - A platform that is dedicated to making sign language accessible, interactive, and enjoyable for everyone, ensuring no one is left unheard.**  
   
 - 🌱 I’m currently learning **Haskell (Functional Programming), C (System Programming), Java (OOP), and Javascript (Front-End)**  
   
