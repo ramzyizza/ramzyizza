@@ -11,7 +11,9 @@
   
 - 👨‍💻 All of my projects are available at [https://ramzy.framer.website/](https://ramzy.framer.website/)  
   
-- 📫 How to reach me **wardhanaramzy@gmail.com**  
+- 📫 How to reach me **wardhanaramzy@gmail.com**
+
+- 💻 Focus Area: Software Engineering, UI/UX, Web Development, Mobile App Development, Human-Computer Interaction, Database Systems, and Software Design
   
 <h3 align="left">Connect with me:</h3>  
 <p align="left">  
