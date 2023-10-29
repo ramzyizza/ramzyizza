@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hey There 👋, I'm Ramzy (he/him) </h1>  
-<h3 align="center">Artificial Intelligence and Computer Science Student at the University of Birmingham. I am passionate about diving into Software Engineering projects that challenge me to the core!</h3>  
+<h3 align="center">I am passionate about diving into Software Engineering disciplines that challenge me to the core!</h3>  
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ramzyizza&label=Profile%20views&color=0e75b6&style=flat" alt="ramzyizza" /> </p>  
   
