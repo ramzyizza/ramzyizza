@@ -1,19 +1,19 @@
 
 
 <h1 align="center">Hey There 👋, I'm Ramzy (he/him) </h1>  
-<h3 align="center">I am passionate about diving into Software Engineering disciplines</h3>  
+<h3 align="center">I am a Student in AI & Computer Science and Currently Working as a Software Engineer 😁.</h3>  
   
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ramzyizza&label=Profile%20views&color=0e75b6&style=flat" alt="ramzyizza" /> </p>  
   
-- 🔭 I’m currently working on **Sign-Lingo - A platform that is dedicated to making sign language accessible, interactive, and enjoyable for everyone, ensuring no one is left unheard.**  
+- 🔭 View My Latest Full-Stack Project [**PlacementHub**](https://github.com/ramzyizza/placement-hub)  
   
-- 🌱 I’m currently learning **Python, C++, and C for OS & System Programming**  
+- 🌱 I’m currently learning **Python and C++ for Software Development**  
   
 - 👨‍💻 All of my projects are available at [https://ramzy.framer.website/](https://ramzy.framer.website/)  
   
 - 📫 How to reach me **wardhanaramzy@gmail.com**
 
-- 💻 Focus Area: Software Engineering, UI/UX, Web Development, Human-Computer Interaction, Database Systems, and Software Design
+- 💻 Focus Area: Software Engineering, Database Systems, Software Architecture Design, UI/UX, and Web Development.
   
 <h3 align="left">Connect with me:</h3>  
 <p align="left">  
