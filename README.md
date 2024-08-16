@@ -8,13 +8,13 @@
   
 - 🔭 View My Latest Full-Stack Project [**PlacementHub**](https://github.com/ramzyizza/placement-hub)  
   
-- 🌱 I’m currently learning **Python and C++ for Software Development**  
+- 🌱 I’m currently learning **Python for Software Development**  
   
 - 👨‍💻 All of my projects are available at [https://ramzy.framer.website/](https://ramzy.framer.website/)  
   
 - 📫 How to reach me **r.i.wardhana@bham.ac.uk**
 
-- 💻 Focus Area: Software Engineering, Database Systems, Software Architecture Design, UI/UX, and Web Development.
+- 💻 Focus Area: Software Engineering, AI & ML Application in Software, Software Architecture Design, UI/UX, and Web Development.
   
 <h3 align="left">Connect with me:</h3>  
 <p align="left">  
